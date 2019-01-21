@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    My First LaravelPage JSimms
                 </div>
 
                 <div class="links">
